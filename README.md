@@ -1,3 +1,5 @@
+All files are provided as encrypted 7z archives (AES-256): code.7z, data.7z and results.7z. They can be opened with 7-Zip (Windows) or Keka / The Unarchiver (macOS). The password is given in the Data availability statement of the article or can be requested from the corresponding author.
+
 # Data, code and results: human vs AI interpersonal emotion regulation (Studies 1–3)
 
 Everything needed to reproduce the statistics, tables and figures of the manuscript and its supplementary material.
